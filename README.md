@@ -1,2 +1,2 @@
 # Inzynierka
-in this project we try make a roguelike game
+in this project we try to make a roguelike game
